@@ -4,7 +4,7 @@ exports.config = {
 
   directConnect: true,
   //seleniumAddress: 'http://localhost:4444/wd/hub',
- specs: ['../VadidationTestScript/AdminLibrary.js'],
+ specs: ['../tests/practice1.js'],
   jasmineNodeOpts: {
     defaultTimeoutInterval: 900000
   },
